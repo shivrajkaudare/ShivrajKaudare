@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivraj Kaudare</h1>
 <h3 align="center">A passionate Java Fullstack developer from Pune,India</h3>
 
-- 🌱 I’m currently learning **MERN and MEAN Stack and SpringBoot.**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking for Job Opportunity as **Java Developer** or **MEARN Stack Developer**
 

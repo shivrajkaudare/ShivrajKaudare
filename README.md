@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivraj Kaudare</h1>
 <h3 align="center">A passionate Java Fullstack developer from Pune,India</h3>
 
-- 🌱 I’m currently learning **React.js,Node.Js,MongoDB and SpringBoot.**
+- 🌱 I’m currently learning **MERN and MEAN Stack and SpringBoot.**
 
-- 👯 I’m looking to collaborate on **Java Developer**
+- 👯 I’m looking for Job Opportunity as **Java Developer** or **MEARN Stack Developer**
 
-- 📫 How to reach me **shivrajkaudare@gmail.com**
+- 📫 How to reach me, Email- **shivrajkaudare@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

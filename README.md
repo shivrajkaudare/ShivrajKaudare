@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivraj Kaudare</h1>
-<h3 align="center">A passionate Java Fullstack developer from Pune,India</h3>
+<h3 align="center">A passionate **Java Fullstack** and **Mern Stack developer** from Pune,India</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 

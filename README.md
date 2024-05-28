@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking for Job Opportunity as **Java Developer** or **MEARN Stack Developer**
+- 👯 I’m looking for Job Opportunity as **MEARN Stack Developer** or **Java Developer** .
 
 - 📫 How to reach me, Email- **shivrajkaudare@gmail.com**
 

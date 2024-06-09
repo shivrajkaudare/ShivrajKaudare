@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Shivraj Kaudare</h1>
 <h3 align="center">A passionate MERN Stack and Java Developer from Pune.</h3>
 
-<p align="left"> <a href="https://twitter.com/shivraj_kaudare" target="blank"><img src="https://img.shields.io/twitter/follow/shivraj_kaudare?logo=twitter&style=for-the-badge" alt="shivraj_kaudare" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shivraj_kaudare" target="blank"><img src="https://img.shields.io/twitter/follow/kaudare_shivraj?logo=twitter&style=for-the-badge" alt="kaudare_shivraj" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack**
 

@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shivraj_kaudare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivraj_kaudare" height="30" width="40" /></a>
+<a href="https://twitter.com/kaudareshivraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivraj_kaudare" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivrajkaudare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivrajkaudare" height="30" width="40" /></a>
 <a href="https://instagram.com/shivraj_kaudare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivraj_kaudare" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivrajkaudare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivrajkaudare" height="30" width="40" /></a>

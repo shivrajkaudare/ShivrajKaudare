@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 👯 I’m looking to collaborate on **MERN Stack and Java Full Stack Developer**
 
 - 📫 How to reach me **shivrajkaudare@gmail.com**

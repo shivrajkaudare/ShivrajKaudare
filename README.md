@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **shivrajkaudare@gmail.com**
 
-- 📄 Here My Resume - [https://drive.google.com/file/d/1WZVM8ppMr8oWZ8jfQGB4nzf-jhJ8eSXo/view?usp=drivesdk](https://drive.google.com/file/d/1WZVM8ppMr8oWZ8jfQGB4nzf-jhJ8eSXo/view?usp=drivesdk)
-
+- 📄 Here My Resume - https://drive.google.com/file/d/1oIgEbQ-tq5cdtex9xJxR8A0acL565sPh/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kaudareshivraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivraj_kaudare" height="30" width="40" /></a>

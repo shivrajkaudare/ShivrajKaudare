@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack and Java Full Stack Developer**
 
-- 📫 How to reach me **shivrajkaudare@gmail.com**
+- 📫 How to reach me **shivrajkaudare@gmail.com**  or shivrajkaudare28@gmail.com
 
 - 📄 Here My Resume - https://drive.google.com/file/d/1oIgEbQ-tq5cdtex9xJxR8A0acL565sPh/view?usp=sharing
 <h3 align="left">Connect with me:</h3>

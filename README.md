@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Shivraj Kaudare</h1>
-<h3 align="center">A passionate MERN Stack and Java Developer from Pune.</h3>
+<h3 align="center">A passionate MERN Stack and Java Full Stack Developer from Pune.</h3>
 
 - 🔭 I’m currently working on **MERN Stack**
 

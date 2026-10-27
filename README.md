@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I am Shivraj Kaudare</h1>
 <h3 align="center">A passionate MERN Stack and Java Full Stack Developer from Pune.</h3>
 
-- 🔭 I’m currently working on **MERN Stack** and Spring Boot
+- 🔭 I’m currently working on **Agentic AI** and **Next.js**
 
-- 👯 I’m looking to collaborate on **MERN Stack and Java Full Stack Developer**
+- 👯 I’m looking to collaborate on **Agentic AI and Full Stack Developer**
 
 - 📫 How to reach me **shivrajkaudare@gmail.com**  or shivrajkaudare28@gmail.com
 
